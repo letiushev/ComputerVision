@@ -3,4 +3,5 @@ This OpenCV project covers the following topics:
   - SVD as a method to estimate rotation
   - Iterative Closest Points
   - Trimmed Iterative Closest Points
+  
 It was performed on a Stanford 3D scanning dataset
